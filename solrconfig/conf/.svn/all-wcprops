@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1142722/lucene/dev/trunk/solr/example/solr/conf
+END
+admin-extra.menu-top.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1131168/lucene/dev/trunk/solr/example/solr/conf/admin-extra.menu-top.html
+END
+schema.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1141489/lucene/dev/trunk/solr/example/solr/conf/schema.xml
+END
+admin-extra.menu-bottom.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1131168/lucene/dev/trunk/solr/example/solr/conf/admin-extra.menu-bottom.html
+END
+protwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/protwords.txt
+END
+stopwords.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1128854/lucene/dev/trunk/solr/example/solr/conf/stopwords.txt
+END
+elevate.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/elevate.xml
+END
+solrconfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1142722/lucene/dev/trunk/solr/example/solr/conf/solrconfig.xml
+END
+stopwords_en.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1128856/lucene/dev/trunk/solr/example/solr/conf/stopwords_en.txt
+END
+mapping-FoldToASCII.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1097216/lucene/dev/trunk/solr/example/solr/conf/mapping-FoldToASCII.txt
+END
+mapping-ISOLatin1Accent.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/mapping-ISOLatin1Accent.txt
+END
+scripts.conf
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/example/solr/conf/scripts.conf
+END
+admin-extra.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/930161/lucene/dev/trunk/solr/example/solr/conf/admin-extra.html
+END
+synonyms.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1061350/lucene/dev/trunk/solr/example/solr/conf/synonyms.txt
+END
+spellings.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/926572/lucene/dev/trunk/solr/example/solr/conf/spellings.txt
+END

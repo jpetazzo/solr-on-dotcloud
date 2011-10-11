@@ -1,0 +1,6 @@
+solr:
+  type: custom
+  buildscript: builder
+  ports:
+    www: http
+  process: ~/run

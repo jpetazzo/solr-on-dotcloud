@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1101136/lucene/dev/trunk/solr/example/solr/conf/velocity
+END
+footer.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1101136/lucene/dev/trunk/solr/example/solr/conf/velocity/footer.vm
+END
+head.vm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1031722/lucene/dev/trunk/solr/example/solr/conf/velocity/head.vm
+END
+browse.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1027788/lucene/dev/trunk/solr/example/solr/conf/velocity/browse.vm
+END
+facet_dates.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1095950/lucene/dev/trunk/solr/example/solr/conf/velocity/facet_dates.vm
+END
+facet_pivot.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1026058/lucene/dev/trunk/solr/example/solr/conf/velocity/facet_pivot.vm
+END
+clusterResults.vm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1027743/lucene/dev/trunk/solr/example/solr/conf/velocity/clusterResults.vm
+END
+facets.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1027743/lucene/dev/trunk/solr/example/solr/conf/velocity/facets.vm
+END
+doc.vm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1101136/lucene/dev/trunk/solr/example/solr/conf/velocity/doc.vm
+END
+query.vm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1095950/lucene/dev/trunk/solr/example/solr/conf/velocity/query.vm
+END
+facet_fields.vm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1026058/lucene/dev/trunk/solr/example/solr/conf/velocity/facet_fields.vm
+END
+jquery.autocomplete.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/955825/lucene/dev/trunk/solr/example/solr/conf/velocity/jquery.autocomplete.js
+END
+hitGrouped.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1027788/lucene/dev/trunk/solr/example/solr/conf/velocity/hitGrouped.vm
+END
+layout.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1027788/lucene/dev/trunk/solr/example/solr/conf/velocity/layout.vm
+END
+facet_queries.vm
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1026058/lucene/dev/trunk/solr/example/solr/conf/velocity/facet_queries.vm
+END
+facet_ranges.vm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1095950/lucene/dev/trunk/solr/example/solr/conf/velocity/facet_ranges.vm
+END
+cluster.vm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1084627/lucene/dev/trunk/solr/example/solr/conf/velocity/cluster.vm
+END
+suggest.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/955825/lucene/dev/trunk/solr/example/solr/conf/velocity/suggest.vm
+END
+queryGroup.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1027788/lucene/dev/trunk/solr/example/solr/conf/velocity/queryGroup.vm
+END
+querySpatial.vm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1027788/lucene/dev/trunk/solr/example/solr/conf/velocity/querySpatial.vm
+END
+hit.vm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1027788/lucene/dev/trunk/solr/example/solr/conf/velocity/hit.vm
+END
+jquery.autocomplete.css
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/955825/lucene/dev/trunk/solr/example/solr/conf/velocity/jquery.autocomplete.css
+END
+VM_global_library.vm
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1095950/lucene/dev/trunk/solr/example/solr/conf/velocity/VM_global_library.vm
+END
+header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1026058/lucene/dev/trunk/solr/example/solr/conf/velocity/header.vm
+END
+tabs.vm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1069345/lucene/dev/trunk/solr/example/solr/conf/velocity/tabs.vm
+END
+main.css
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1095950/lucene/dev/trunk/solr/example/solr/conf/velocity/main.css
+END
