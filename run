@@ -1,5 +1,6 @@
 #!/bin/sh
+
 export JETTY_PORT=$PORT_WWW
 export JAVA_OPTIONS=-Dsolr.solr.home=/home/dotcloud/data/solr
-jetty/bin/jetty.sh supervise
 
+exec jetty/bin/jetty.sh supervise
