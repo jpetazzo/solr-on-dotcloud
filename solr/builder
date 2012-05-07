@@ -30,9 +30,9 @@ fi
 mkdir -p ~/data
 
 echo 'Installing Solr config...'
-cp -a solrconfig/. ~/data/solr
+cp -a solr/config/. ~/data/solr
 
 echo 'Installing run script...'
-cp run ~
+cp solr/run ~
 
 echo 'Build complete.'
